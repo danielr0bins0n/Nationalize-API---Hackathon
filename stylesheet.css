@@ -1,0 +1,68 @@
+table {
+    margin      : 20% 10%;
+    border      : solid;
+    border-color: black;
+    opacity     : 0.9;
+}
+
+i {
+    padding-left: 4px;
+}
+
+.th {
+    width     : 10px;
+    text-align: center;
+}
+
+.col {
+    width: 50%;
+}
+
+td {
+    text-align: center;
+}
+
+label {
+    margin: 15% 2%;
+}
+
+input[type~="text"] {
+    border             : none;
+    background         : none;
+    box-shadow         : 2px 1px 4px 1px #888888;
+    /* background-image: url(https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-05.jpg); */
+    text-align         : center;
+    outline            : none;
+
+}
+
+input:hover {
+    box-shadow: rgb(196 195 195) 0px 0px 12px 1px;
+}
+
+button:hover {
+    box-shadow: rgb(196 195 195) 0px 0px 12px 1px;
+}
+
+.myform {
+    margin: 60% 10%;
+}
+
+.divbutton {
+    /* margin: 2% 0%; */
+}
+
+.button {
+    margin          : 8% 5%;
+    border-radius   : 4px;
+    border          : 0px;
+    box-shadow      : 2px 1px 4px 1px #888888;
+    background-image: url(https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-05.jpg);
+    outline         : none;
+}
+
+body {
+    background-image : url(https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-05.jpg);
+    background-repeat: no-repeat;
+    background-size  : cover;
+}
